@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_start_fixed_date_time" label="Start or Fixed date time" language="en" table="x_21503_kontrollit_kontrollit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_start_fixed_date_time</element>
+            <help/>
+            <hint/>
+            <label>Start or Fixed date time</label>
+            <language>en</language>
+            <name>x_21503_kontrollit_kontrollit</name>
+            <plural>Start or Fixed date times</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-20 08:08:07</sys_created_on>
+            <sys_id>987897cbdbd81300fa81712ebf96196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Start or Fixed date time</sys_name>
+            <sys_package display_value="Kontrollit" source="x_21503_kontrollit">ec011b87dbd81300fa81712ebf9619e8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Kontrollit">ec011b87dbd81300fa81712ebf9619e8</sys_scope>
+            <sys_update_name>sys_documentation_x_21503_kontrollit_kontrollit_u_start_fixed_date_time_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-20 08:08:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

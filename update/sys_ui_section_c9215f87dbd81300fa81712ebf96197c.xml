@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="c9215f87dbd81300fa81712ebf96197c" sys_domain="global" table="x_21503_kontrollit_kontrollit" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-21 08:56:39</sys_created_on>
+            <sys_id>892d24abdb501300fa81712ebf961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_21503_kontrollit_kontrollit" sys_domain="global" view="Default view">c9215f87dbd81300fa81712ebf96197c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-21 08:56:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-21 08:56:39</sys_created_on>
+            <sys_id>0d2d24abdb501300fa81712ebf961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_21503_kontrollit_kontrollit" sys_domain="global" view="Default view">c9215f87dbd81300fa81712ebf96197c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-21 08:56:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_type</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-21 08:56:39</sys_created_on>
+            <sys_id>8d2d24abdb501300fa81712ebf961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_21503_kontrollit_kontrollit" sys_domain="global" view="Default view">c9215f87dbd81300fa81712ebf96197c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-21 08:56:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_action</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-21 08:56:39</sys_created_on>
+            <sys_id>012d24abdb501300fa81712ebf961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_21503_kontrollit_kontrollit" sys_domain="global" view="Default view">c9215f87dbd81300fa81712ebf96197c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-21 08:56:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-21 08:56:39</sys_created_on>
+            <sys_id>812d24abdb501300fa81712ebf961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_21503_kontrollit_kontrollit" sys_domain="global" view="Default view">c9215f87dbd81300fa81712ebf96197c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-21 08:56:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-21 08:56:39</sys_created_on>
+            <sys_id>052d24abdb501300fa81712ebf961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_21503_kontrollit_kontrollit" sys_domain="global" view="Default view">c9215f87dbd81300fa81712ebf96197c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-21 08:56:39</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-21 08:56:39</sys_created_on>
+            <sys_id>852d24abdb501300fa81712ebf961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_21503_kontrollit_kontrollit" sys_domain="global" view="Default view">c9215f87dbd81300fa81712ebf96197c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-21 08:56:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-21 08:56:39</sys_created_on>
+            <sys_id>092d24abdb501300fa81712ebf961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_21503_kontrollit_kontrollit" sys_domain="global" view="Default view">c9215f87dbd81300fa81712ebf96197c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-21 08:56:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_recurrence_type</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-21 08:56:39</sys_created_on>
+            <sys_id>892d24abdb501300fa81712ebf961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_21503_kontrollit_kontrollit" sys_domain="global" view="Default view">c9215f87dbd81300fa81712ebf96197c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-21 08:56:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_recurrence_interval</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-21 08:56:39</sys_created_on>
+            <sys_id>0d2d24abdb501300fa81712ebf961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_21503_kontrollit_kontrollit" sys_domain="global" view="Default view">c9215f87dbd81300fa81712ebf96197c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-21 08:56:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_start_fixed_date_time</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-21 08:56:39</sys_created_on>
+            <sys_id>8d2d24abdb501300fa81712ebf961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_21503_kontrollit_kontrollit" sys_domain="global" view="Default view">c9215f87dbd81300fa81712ebf96197c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-21 08:56:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_next_occurance</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-21 08:56:39</sys_created_on>
+            <sys_id>012d24abdb501300fa81712ebf961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_21503_kontrollit_kontrollit" sys_domain="global" view="Default view">c9215f87dbd81300fa81712ebf96197c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-21 08:56:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-21 08:56:39</sys_created_on>
+            <sys_id>812d24abdb501300fa81712ebf961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_21503_kontrollit_kontrollit" sys_domain="global" view="Default view">c9215f87dbd81300fa81712ebf96197c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-21 08:56:39</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-21 08:56:39</sys_created_on>
+            <sys_id>052d24abdb501300fa81712ebf961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_21503_kontrollit_kontrollit" sys_domain="global" view="Default view">c9215f87dbd81300fa81712ebf96197c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-21 08:56:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-21 08:56:39</sys_created_on>
+            <sys_id>852d24abdb501300fa81712ebf961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_21503_kontrollit_kontrollit" sys_domain="global" view="Default view">c9215f87dbd81300fa81712ebf96197c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-21 08:56:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-21 08:56:39</sys_created_on>
+            <sys_id>092d24abdb501300fa81712ebf961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_21503_kontrollit_kontrollit" sys_domain="global" view="Default view">c9215f87dbd81300fa81712ebf96197c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-21 08:56:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_21503_kontrollit_kontrollit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-20 07:36:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c9215f87dbd81300fa81712ebf96197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_21503_kontrollit_kontrollit</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Kontrollit" source="x_21503_kontrollit">ec011b87dbd81300fa81712ebf9619e8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Kontrollit">ec011b87dbd81300fa81712ebf9619e8</sys_scope>
+            <sys_update_name>sys_ui_section_c9215f87dbd81300fa81712ebf96197c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-20 07:36:13</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

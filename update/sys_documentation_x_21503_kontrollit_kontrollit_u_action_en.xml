@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_action" label="Action" language="en" table="x_21503_kontrollit_kontrollit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_action</element>
+            <help/>
+            <hint/>
+            <label>Action</label>
+            <language>en</language>
+            <name>x_21503_kontrollit_kontrollit</name>
+            <plural>Actions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-20 07:48:42</sys_created_on>
+            <sys_id>fff3570bdbd81300fa81712ebf9619b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Action</sys_name>
+            <sys_package display_value="Kontrollit" source="x_21503_kontrollit">ec011b87dbd81300fa81712ebf9619e8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Kontrollit">ec011b87dbd81300fa81712ebf9619e8</sys_scope>
+            <sys_update_name>sys_documentation_x_21503_kontrollit_kontrollit_u_action_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-20 07:48:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

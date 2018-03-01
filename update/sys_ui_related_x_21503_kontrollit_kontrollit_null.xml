@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="x_21503_kontrollit_kontrollit" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Kontrollit - Default view" name="x_21503_kontrollit_kontrollit" related_list="NULL" sys_domain="global" view="Default view">e4ee1f8fdbd81300fa81712ebf96194b</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>task_ci.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-20 08:36:15</sys_created_on>
+            <sys_id>acee1f8fdbd81300fa81712ebf96194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-20 08:36:15</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Kontrollit - Default view" name="x_21503_kontrollit_kontrollit" related_list="NULL" sys_domain="global" view="Default view">e4ee1f8fdbd81300fa81712ebf96194b</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>incident.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-20 08:36:15</sys_created_on>
+            <sys_id>a0ee1f8fdbd81300fa81712ebf96194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-20 08:36:15</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Kontrollit - Default view</calculated_name>
+            <filter/>
+            <name>x_21503_kontrollit_kontrollit</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-20 08:36:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e4ee1f8fdbd81300fa81712ebf96194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Kontrollit - Default view</sys_name>
+            <sys_package display_value="Kontrollit" source="x_21503_kontrollit">ec011b87dbd81300fa81712ebf9619e8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Kontrollit">ec011b87dbd81300fa81712ebf9619e8</sys_scope>
+            <sys_update_name>sys_ui_related_x_21503_kontrollit_kontrollit_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-20 08:36:15</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>
