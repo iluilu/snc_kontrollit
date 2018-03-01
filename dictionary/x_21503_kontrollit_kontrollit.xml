@@ -1,14 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element attributes="live_feed=true" extends="task" label="Kontrollit" max_length="40" name="x_21503_kontrollit_kontrollit" sizeclass="2" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="1" label="Class" max_length="40" name="class" type="string">
+            <choice>
+                <element label="Service Break" sequence="0" value="1"/>
+                <element label="Backup Check" sequence="1" value="2"/>
+                <element label="Restoration Test" sequence="2" value="3"/>
+                <element label="Antivirus Check" sequence="3" value="4"/>
+                <element label="Solution Maintenance" sequence="4" value="5"/>
+                <element label="Server Maintenance" sequence="5" value="6"/>
+                <element label="Device Maintenance" sequence="6" value="7"/>
+                <element label="Licence Check" sequence="7" value="8"/>
+                <element label="Other" sequence="8" value="9"/>
+            </choice>
+        </element>
+        <element label="Fixed time" max_length="40" name="fixed_time" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Operational status" max_length="40" name="operational_status" type="string">
+            <choice>
+                <element label="Under Construction" sequence="0" value="1"/>
+                <element label="Approved" sequence="1" value="2"/>
+                <element label="Obsolate" sequence="2" value="3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Team or person responsible" max_length="40" name="teampersonrespons" type="string">
+            <choice>
+                <element label="First Team" sequence="0" value="1"/>
+                <element label="Account System Admin" sequence="1" value="2"/>
+                <element label="Account Workstation Admin" sequence="2" value="3"/>
+                <element label="Account ICT Manager" sequence="3" value="4"/>
+                <element label="Account Team" sequence="4" value="5"/>
+                <element label="GreenTeam" sequence="5" value="6"/>
+                <element label="Tietohallinto Team" sequence="6" value="7"/>
+                <element label="-" sequence="7" value="8"/>
+                <element label="Solution Owner / Main User" sequence="8" value="9"/>
+                <element label="Solution Owner" sequence="9" value="11"/>
+                <element label="Solution Main User" sequence="10" value="12"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Action" max_length="40" name="u_action" type="string">
             <choice>
-                <element label="Email" sequence="0" value="email"/>
-                <element label="Case" sequence="1" value="case"/>
+                <element label="E-mail" sequence="0" value="1"/>
+                <element label="Ticket" sequence="1" value="2"/>
             </choice>
         </element>
         <element label="Next occurance" max_length="40" name="u_next_occurance" read_only="true" type="glide_date_time"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" default="2" dependent="u_recurrence_type" dependent_on_field="u_recurrence_type" label="Recurrence interval" max_length="40" name="u_recurrence_interval" type="string" use_dependent_field="true">
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="u_recurrence_type" dependent_on_field="u_recurrence_type" label="Recurrence interval" max_length="40" name="u_recurrence_interval" type="string" use_dependent_field="true">
             <choice>
                 <element dependent_value="week" label="2" sequence="1" value="2"/>
                 <element dependent_value="week" label="3" sequence="2" value="3"/>
@@ -31,7 +67,7 @@
         <element attributes="edge_encryption_enabled=true" choice="1" label="Type" max_length="40" name="u_type" type="string">
             <choice>
                 <element label="General" sequence="0" value="general"/>
-                <element label="Customer" sequence="1" value="customer"/>
+                <element label="Customer Specific" sequence="1" value="2"/>
             </choice>
         </element>
     </element>
